@@ -1,0 +1,11 @@
+module seg(
+	clk,
+	rst,
+	number_in,
+	code_out
+);
+
+input clk;
+input rst;
+output number_in;
+output code_out;

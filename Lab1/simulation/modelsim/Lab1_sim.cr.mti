@@ -1,0 +1,50 @@
+D:/QuartusCode/Lab1/simulation/modelsim/Lab1_sim.v {1 {vlog -work work -stats=none D:/QuartusCode/Lab1/simulation/modelsim/Lab1_sim.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Lab1_sim
+
+Top level modules:
+	Lab1_sim
+
+} {} {}} D:/QuartusCode/Lab1/stopwatch.v {1 {vlog -work work -stats=none D:/QuartusCode/Lab1/stopwatch.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module stopwatch
+
+Top level modules:
+	stopwatch
+
+} {} {}} D:/QuartusCode/Lab1/debounce.v {1 {vlog -work work -stats=none D:/QuartusCode/Lab1/debounce.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module debounce
+
+Top level modules:
+	debounce
+
+} {} {}} D:/QuartusCode/Lab1/state.v {1 {vlog -work work -stats=none D:/QuartusCode/Lab1/state.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module state
+
+Top level modules:
+	state
+
+} {} {}} D:/QuartusCode/Lab1/edge_detect.v {1 {vlog -work work -stats=none D:/QuartusCode/Lab1/edge_detect.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module edge_detect
+
+Top level modules:
+	edge_detect
+
+} {} {}} D:/QuartusCode/Lab1/seg.v {1 {vlog -work work -stats=none D:/QuartusCode/Lab1/seg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module seg
+
+Top level modules:
+	seg
+
+} {} {}} D:/QuartusCode/Lab1/Lab1.v {1 {vlog -work work -stats=none D:/QuartusCode/Lab1/Lab1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Lab1
+
+Top level modules:
+	Lab1
+
+} {} {}}

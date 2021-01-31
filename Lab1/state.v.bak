@@ -1,0 +1,5 @@
+module state(
+	clk,
+	rst,
+	key1
+)

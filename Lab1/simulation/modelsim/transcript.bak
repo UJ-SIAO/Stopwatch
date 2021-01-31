@@ -1,0 +1,9 @@
+# Compile of debounce.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of Lab1.v was successful.
+# Compile of seg.v was successful.
+# Compile of state.v was successful.
+# Compile of stopwatch.v was successful.
+# Compile of Lab1_sim.v was successful.
+# 7 compiles, 0 failed with no errors.
+vsim -gui -l msim_transcript work.Lab1_sim

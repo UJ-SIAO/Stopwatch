@@ -1,0 +1,677 @@
+# vsim -gui -l msim_transcript work.Lab1_sim 
+# Start time: 19:04:39 on Apr 01,2020
+# Loading work.Lab1_sim
+# Loading work.Lab1
+# Loading work.debounce
+# Loading work.edge_detect
+# Loading work.state
+# Loading work.stopwatch
+# Loading work.seg
+# Compile of debounce.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of Lab1.v was successful.
+# Compile of seg.v was successful.
+# Compile of state.v was successful.
+# Compile of stopwatch.v was successful.
+# Compile of Lab1_sim.v was successful.
+# 7 compiles, 0 failed with no errors.
+run
+restart
+# Loading work.Lab1_sim
+# Loading work.Lab1
+# Loading work.debounce
+# Loading work.edge_detect
+# Loading work.state
+# Loading work.stopwatch
+# Loading work.seg
+run
+# ** Note: $stop    : D:/QuartusCode/Lab1/simulation/modelsim/Lab1_sim.v(175)
+#    Time: 80060470 ns  Iteration: 0  Instance: /Lab1_sim
+# Break in Module Lab1_sim at D:/QuartusCode/Lab1/simulation/modelsim/Lab1_sim.v line 175
+add wave -position insertpoint  \
+sim:/Lab1_sim/clk \
+sim:/Lab1_sim/rst \
+sim:/Lab1_sim/key0_in \
+sim:/Lab1_sim/min1 \
+sim:/Lab1_sim/min2 \
+sim:/Lab1_sim/sec1 \
+sim:/Lab1_sim/sec2 \
+sim:/Lab1_sim/ms1 \
+sim:/Lab1_sim/ms2
+restart
+run
+# ** Note: $stop    : D:/QuartusCode/Lab1/simulation/modelsim/Lab1_sim.v(175)
+#    Time: 80060470 ns  Iteration: 0  Instance: /Lab1_sim
+# Break in Module Lab1_sim at D:/QuartusCode/Lab1/simulation/modelsim/Lab1_sim.v line 175
+# Compile of debounce.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of Lab1.v was successful.
+# Compile of seg.v was successful.
+# Compile of state.v was successful.
+# Compile of stopwatch.v was successful.
+# Compile of Lab1_sim.v failed with 3 errors.
+# 7 compiles, 1 failed with 3 errors.
+# Compile of debounce.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of Lab1.v was successful.
+# Compile of seg.v was successful.
+# Compile of state.v was successful.
+# Compile of stopwatch.v was successful.
+# Compile of Lab1_sim.v was successful.
+# 7 compiles, 0 failed with no errors.
+restart
+# Loading work.Lab1_sim
+# Loading work.Lab1
+# Loading work.debounce
+# Loading work.edge_detect
+# Loading work.state
+# Loading work.stopwatch
+# Loading work.seg
+# ** Error: (vsim-3389) D:/QuartusCode/Lab1/simulation/modelsim/Lab1_sim.v(21): Port 'key1_in' not found in the connected module (4th connection).
+#    Time: 0 ns  Iteration: 0  Instance: /Lab1_sim/Lab1_sim File: D:/QuartusCode/Lab1/Lab1.v
+# ** Fatal: (vsim-3365) D:/QuartusCode/Lab1/simulation/modelsim/Lab1_sim.v(21): Too many port connections. Expected 9, found 10.
+#    Time: 0 ns  Iteration: 0  Instance: /Lab1_sim/Lab1_sim File: D:/QuartusCode/Lab1/Lab1.v
+# FATAL ERROR while loading design
+# Compile of debounce.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of Lab1.v was successful.
+# Compile of seg.v was successful.
+# Compile of state.v was successful.
+# Compile of stopwatch.v was successful.
+# Compile of Lab1_sim.v was successful.
+# 7 compiles, 0 failed with no errors.
+vsim -gui -l msim_transcript work.Lab1_sim
+# vsim -gui -l msim_transcript work.Lab1_sim 
+# Start time: 19:04:39 on Apr 01,2020
+# Loading work.Lab1_sim
+# Loading work.Lab1
+# Loading work.debounce
+# Loading work.edge_detect
+# Loading work.state
+# Loading work.stopwatch
+# Loading work.seg
+# Compile of debounce.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of Lab1.v was successful.
+# Compile of seg.v was successful.
+# Compile of state.v was successful.
+# Compile of stopwatch.v was successful.
+# Compile of Lab1_sim.v was successful.
+# 7 compiles, 0 failed with no errors.
+# Compile of debounce.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of Lab1.v was successful.
+# Compile of seg.v was successful.
+# Compile of state.v was successful.
+# Compile of stopwatch.v was successful.
+# Compile of Lab1_sim.v was successful.
+# 7 compiles, 0 failed with no errors.
+restart
+# Loading work.Lab1_sim
+# Loading work.Lab1
+# Loading work.debounce
+# Loading work.edge_detect
+# Loading work.state
+# Loading work.stopwatch
+# Loading work.seg
+run
+# Compile of debounce.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of Lab1.v was successful.
+# Compile of seg.v was successful.
+# Compile of state.v was successful.
+# Compile of stopwatch.v was successful.
+# Compile of Lab1_sim.v was successful.
+# 7 compiles, 0 failed with no errors.
+restart
+# Loading work.Lab1_sim
+# Loading work.Lab1
+# Loading work.debounce
+# Loading work.edge_detect
+# Loading work.state
+# Loading work.stopwatch
+# Loading work.seg
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of debounce.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of Lab1.v was successful.
+# Compile of seg.v was successful.
+# Compile of state.v was successful.
+# Compile of stopwatch.v was successful.
+# Compile of Lab1_sim.v was successful.
+# 7 compiles, 0 failed with no errors.
+restart
+# Loading work.Lab1_sim
+# Loading work.Lab1
+# Loading work.debounce
+# Loading work.edge_detect
+# Loading work.state
+# Loading work.stopwatch
+# Loading work.seg
+run
+# Compile of debounce.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of Lab1.v was successful.
+# Compile of seg.v was successful.
+# Compile of state.v was successful.
+# Compile of stopwatch.v was successful.
+# Compile of Lab1_sim.v failed with 3 errors.
+# 7 compiles, 1 failed with 3 errors.
+# Compile of debounce.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of Lab1.v was successful.
+# Compile of seg.v was successful.
+# Compile of state.v was successful.
+# Compile of stopwatch.v was successful.
+# Compile of Lab1_sim.v failed with 3 errors.
+# 7 compiles, 1 failed with 3 errors.
+# Compile of debounce.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of Lab1.v was successful.
+# Compile of seg.v was successful.
+# Compile of state.v was successful.
+# Compile of stopwatch.v was successful.
+# Compile of Lab1_sim.v failed with 3 errors.
+# 7 compiles, 1 failed with 3 errors.
+# Compile of debounce.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of Lab1.v was successful.
+# Compile of seg.v was successful.
+# Compile of state.v was successful.
+# Compile of stopwatch.v was successful.
+# Compile of Lab1_sim.v was successful.
+# 7 compiles, 0 failed with no errors.
+restart
+# Loading work.Lab1_sim
+# Loading work.Lab1
+# Loading work.debounce
+# Loading work.edge_detect
+# Loading work.state
+# Loading work.stopwatch
+# Loading work.seg
+run
+restart
+run
+# Compile of debounce.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of Lab1.v was successful.
+# Compile of seg.v was successful.
+# Compile of state.v was successful.
+# Compile of stopwatch.v was successful.
+# Compile of Lab1_sim.v was successful.
+# 7 compiles, 0 failed with no errors.
+restart
+# Loading work.Lab1_sim
+# Loading work.Lab1
+# Loading work.debounce
+# Loading work.edge_detect
+# Loading work.state
+# Loading work.stopwatch
+# Loading work.seg
+run
+# Compile of debounce.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of Lab1.v was successful.
+# Compile of seg.v was successful.
+# Compile of state.v was successful.
+# Compile of stopwatch.v was successful.
+# Compile of Lab1_sim.v failed with 1 errors.
+# 7 compiles, 1 failed with 1 error.
+# Compile of debounce.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of Lab1.v was successful.
+# Compile of seg.v was successful.
+# Compile of state.v was successful.
+# Compile of stopwatch.v was successful.
+# Compile of Lab1_sim.v was successful.
+# 7 compiles, 0 failed with no errors.
+restart
+# Loading work.Lab1_sim
+# Loading work.Lab1
+# Loading work.debounce
+# Loading work.edge_detect
+# Loading work.state
+# Loading work.stopwatch
+# Loading work.seg
+# ** Warning: (vsim-3008) D:/QuartusCode/Lab1/simulation/modelsim/Lab1_sim.v(25): [CNNODP] - Component name (state) is not on a downward path.
+#    Time: 0 ns  Iteration: 0  Instance: /Lab1_sim File: D:/QuartusCode/Lab1/simulation/modelsim/Lab1_sim.v
+# ** Error: (vsim-3043) D:/QuartusCode/Lab1/simulation/modelsim/Lab1_sim.v(25): Unresolved reference to 'state' in Lab1_sim.Lab1.stopwatch1.state.
+#    Time: 0 ns  Iteration: 0  Instance: /Lab1_sim File: D:/QuartusCode/Lab1/simulation/modelsim/Lab1_sim.v
+# Compile of debounce.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of Lab1.v was successful.
+# Compile of seg.v was successful.
+# Compile of state.v was successful.
+# Compile of stopwatch.v was successful.
+# Compile of Lab1_sim.v was successful.
+# 7 compiles, 0 failed with no errors.
+vsim -gui -l msim_transcript work.Lab1_sim
+# vsim -gui -l msim_transcript work.Lab1_sim 
+# Start time: 19:04:39 on Apr 01,2020
+# Loading work.Lab1_sim
+# Loading work.Lab1
+# Loading work.debounce
+# Loading work.edge_detect
+# Loading work.state
+# Loading work.stopwatch
+# Loading work.seg
+# ** Warning: (vsim-3008) D:/QuartusCode/Lab1/simulation/modelsim/Lab1_sim.v(25): [CNNODP] - Component name (state1) is not on a downward path.
+#    Time: 0 ns  Iteration: 0  Instance: /Lab1_sim File: D:/QuartusCode/Lab1/simulation/modelsim/Lab1_sim.v
+# ** Error: (vsim-3043) D:/QuartusCode/Lab1/simulation/modelsim/Lab1_sim.v(25): Unresolved reference to 'state1' in Lab1_sim.Lab1.stopwatch1.state1.
+#    Time: 0 ns  Iteration: 0  Instance: /Lab1_sim File: D:/QuartusCode/Lab1/simulation/modelsim/Lab1_sim.v
+# Error loading design
+# End time: 20:14:20 on Apr 01,2020, Elapsed time: 1:09:41
+# Errors: 4, Warnings: 2
+# Compile of debounce.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of Lab1.v was successful.
+# Compile of seg.v was successful.
+# Compile of state.v was successful.
+# Compile of stopwatch.v was successful.
+# Compile of Lab1_sim.v was successful.
+# 7 compiles, 0 failed with no errors.
+vsim -gui -l msim_transcript work.Lab1_sim
+# vsim -gui -l msim_transcript work.Lab1_sim 
+# Start time: 20:14:47 on Apr 01,2020
+# Loading work.Lab1_sim
+# Loading work.Lab1
+# Loading work.debounce
+# Loading work.edge_detect
+# Loading work.state
+# Loading work.stopwatch
+# Loading work.seg
+run
+add wave -position insertpoint  \
+sim:/Lab1_sim/run_stop
+run
+restart
+run
+# Compile of debounce.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of Lab1.v was successful.
+# Compile of seg.v was successful.
+# Compile of state.v was successful.
+# Compile of stopwatch.v was successful.
+# Compile of Lab1_sim.v was successful.
+# 7 compiles, 0 failed with no errors.
+restart
+# Loading work.Lab1_sim
+# Loading work.Lab1
+# Loading work.debounce
+# Loading work.edge_detect
+# Loading work.state
+# Loading work.stopwatch
+# Loading work.seg
+add wave -position insertpoint  \
+sim:/Lab1_sim/ms_counter
+run
+# Compile of debounce.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of Lab1.v was successful.
+# Compile of seg.v was successful.
+# Compile of state.v was successful.
+# Compile of stopwatch.v was successful.
+# Compile of Lab1_sim.v was successful.
+# 7 compiles, 0 failed with no errors.
+run
+restart
+# Loading work.Lab1_sim
+# Loading work.Lab1
+# Loading work.debounce
+# Loading work.edge_detect
+# Loading work.state
+# Loading work.stopwatch
+# Loading work.seg
+run
+restart
+run
+# Compile of debounce.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of Lab1.v was successful.
+# Compile of seg.v was successful.
+# Compile of state.v was successful.
+# Compile of stopwatch.v was successful.
+# Compile of Lab1_sim.v was successful.
+# 7 compiles, 0 failed with no errors.
+# Compile of debounce.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of Lab1.v was successful.
+# Compile of seg.v was successful.
+# Compile of state.v was successful.
+# Compile of stopwatch.v was successful.
+# Compile of Lab1_sim.v was successful.
+# 7 compiles, 0 failed with no errors.
+restart
+# Loading work.Lab1_sim
+# Loading work.Lab1
+# Loading work.debounce
+# Loading work.edge_detect
+# Loading work.state
+# Loading work.stopwatch
+# Loading work.seg
+# Warning in wave window restart: (vish-4014) No objects found matching '/Lab1_sim/ms_counter'. 
+add wave -position insertpoint  \
+sim:/Lab1_sim/min_counter
+run
+restart
+run
+restart
+run
+# Compile of debounce.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of Lab1.v was successful.
+# Compile of seg.v was successful.
+# Compile of state.v was successful.
+# Compile of stopwatch.v was successful.
+# Compile of Lab1_sim.v was successful.
+# 7 compiles, 0 failed with no errors.
+restart
+# Loading work.Lab1_sim
+# Loading work.Lab1
+# Loading work.debounce
+# Loading work.edge_detect
+# Loading work.state
+# Loading work.stopwatch
+# Loading work.seg
+run
+# Compile of debounce.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of Lab1.v was successful.
+# Compile of seg.v was successful.
+# Compile of state.v was successful.
+# Compile of stopwatch.v was successful.
+# Compile of Lab1_sim.v was successful.
+# 7 compiles, 0 failed with no errors.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of debounce.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of Lab1.v was successful.
+# Compile of seg.v was successful.
+# Compile of state.v was successful.
+# Compile of stopwatch.v was successful.
+# Compile of Lab1_sim.v was successful.
+# 7 compiles, 0 failed with no errors.
+run
+# Compile of debounce.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of Lab1.v was successful.
+# Compile of seg.v was successful.
+# Compile of state.v was successful.
+# Compile of stopwatch.v was successful.
+# Compile of Lab1_sim.v was successful.
+# 7 compiles, 0 failed with no errors.
+restart
+# Loading work.Lab1_sim
+# Loading work.Lab1
+# Loading work.debounce
+# Loading work.edge_detect
+# Loading work.state
+# Loading work.stopwatch
+# Loading work.seg
+run
+# Compile of debounce.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of Lab1.v was successful.
+# Compile of seg.v was successful.
+# Compile of state.v was successful.
+# Compile of stopwatch.v was successful.
+# Compile of Lab1_sim.v was successful.
+# 7 compiles, 0 failed with no errors.
+restart
+# Loading work.Lab1_sim
+# Loading work.Lab1
+# Loading work.debounce
+# Loading work.edge_detect
+# Loading work.state
+# Loading work.stopwatch
+# Loading work.seg
+run
+# Compile of debounce.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of Lab1.v was successful.
+# Compile of seg.v was successful.
+# Compile of state.v was successful.
+# Compile of stopwatch.v was successful.
+# Compile of Lab1_sim.v was successful.
+# 7 compiles, 0 failed with no errors.
+restart
+# Loading work.Lab1_sim
+# Loading work.Lab1
+# Loading work.debounce
+# Loading work.edge_detect
+# Loading work.state
+# Loading work.stopwatch
+# Loading work.seg
+run
+# Compile of debounce.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of Lab1.v was successful.
+# Compile of seg.v was successful.
+# Compile of state.v was successful.
+# Compile of stopwatch.v was successful.
+# Compile of Lab1_sim.v was successful.
+# 7 compiles, 0 failed with no errors.
+restart
+# Loading work.Lab1_sim
+# Loading work.Lab1
+# Loading work.debounce
+# Loading work.edge_detect
+# Loading work.state
+# Loading work.stopwatch
+# Loading work.seg
+run
+# Compile of debounce.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of Lab1.v was successful.
+# Compile of seg.v was successful.
+# Compile of state.v was successful.
+# Compile of stopwatch.v was successful.
+# Compile of Lab1_sim.v was successful.
+# 7 compiles, 0 failed with no errors.
+restart
+# Loading work.Lab1_sim
+# Loading work.Lab1
+# Loading work.debounce
+# Loading work.edge_detect
+# Loading work.state
+# Loading work.stopwatch
+# Loading work.seg
+run
+restart
+run
+# Compile of debounce.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of Lab1.v was successful.
+# Compile of seg.v was successful.
+# Compile of state.v was successful.
+# Compile of stopwatch.v was successful.
+# Compile of Lab1_sim.v was successful.
+# 7 compiles, 0 failed with no errors.
+restart
+# Loading work.Lab1_sim
+# Loading work.Lab1
+# Loading work.debounce
+# Loading work.edge_detect
+# Loading work.state
+# Loading work.stopwatch
+# Loading work.seg
+run
+run
+run
+run
+run
+run
+run
+# Compile of debounce.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of Lab1.v was successful.
+# Compile of seg.v was successful.
+# Compile of state.v was successful.
+# Compile of stopwatch.v was successful.
+# Compile of Lab1_sim.v was successful.
+# 7 compiles, 0 failed with no errors.
+# Compile of debounce.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of Lab1.v was successful.
+# Compile of seg.v was successful.
+# Compile of state.v was successful.
+# Compile of stopwatch.v was successful.
+# Compile of Lab1_sim.v was successful.
+# 7 compiles, 0 failed with no errors.
+restart
+# Loading work.Lab1_sim
+# Loading work.Lab1
+# Loading work.debounce
+# Loading work.edge_detect
+# Loading work.state
+# Loading work.stopwatch
+# Loading work.seg
+run
+restart
+run
+run
+run
+run
+run
+restart
+run
+run
+run
+restart
+# Compile of debounce.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of Lab1.v was successful.
+# Compile of seg.v was successful.
+# Compile of state.v was successful.
+# Compile of stopwatch.v was successful.
+# Compile of Lab1_sim.v was successful.
+# 7 compiles, 0 failed with no errors.
+restart
+# Loading work.Lab1_sim
+# Loading work.Lab1
+# Loading work.debounce
+# Loading work.edge_detect
+# Loading work.state
+# Loading work.stopwatch
+# Loading work.seg
+run
+restart
+run -all
+# ** Note: $stop    : D:/QuartusCode/Lab1/simulation/modelsim/Lab1_sim.v(43)
+#    Time: 1070 ns  Iteration: 0  Instance: /Lab1_sim
+# Break in Module Lab1_sim at D:/QuartusCode/Lab1/simulation/modelsim/Lab1_sim.v line 43
+run
+restart
+# Compile of debounce.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of Lab1.v was successful.
+# Compile of seg.v was successful.
+# Compile of state.v was successful.
+restart
+# Loading work.Lab1
+# Loading work.debounce
+# Loading work.edge_detect
+# Loading work.state
+# Loading work.stopwatch
+# Loading work.seg
+# Compile of stopwatch.v was successful.
+# Compile of Lab1_sim.v was successful.
+# 7 compiles, 0 failed with no errors.
+run
+run -all
+# ** Note: $stop    : D:/QuartusCode/Lab1/simulation/modelsim/Lab1_sim.v(43)
+#    Time: 1070 ns  Iteration: 0  Instance: /Lab1_sim
+# Break in Module Lab1_sim at D:/QuartusCode/Lab1/simulation/modelsim/Lab1_sim.v line 43
+run
+# Compile of debounce.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of Lab1.v was successful.
+# Compile of seg.v was successful.
+# Compile of state.v was successful.
+# Compile of stopwatch.v was successful.
+# Compile of Lab1_sim.v was successful.
+# 7 compiles, 0 failed with no errors.
+run
+restart
+# Loading work.Lab1_sim
+# Loading work.Lab1
+# Loading work.debounce
+# Loading work.edge_detect
+# Loading work.state
+# Loading work.stopwatch
+# Loading work.seg
+run -all
+# ** Note: $stop    : D:/QuartusCode/Lab1/simulation/modelsim/Lab1_sim.v(44)
+#    Time: 2160 ns  Iteration: 0  Instance: /Lab1_sim
+# Break in Module Lab1_sim at D:/QuartusCode/Lab1/simulation/modelsim/Lab1_sim.v line 44
+run
+# Compile of debounce.v was successful.
+# Compile of edge_detect.v was successful.
+# Compile of Lab1.v was successful.
+# Compile of seg.v was successful.
+# Compile of state.v was successful.
+# Compile of stopwatch.v was successful.
+# Compile of Lab1_sim.v was successful.
+# 7 compiles, 0 failed with no errors.
+restart
+# Loading work.Lab1_sim
+# Loading work.Lab1
+# Loading work.debounce
+# Loading work.edge_detect
+# Loading work.state
+# Loading work.stopwatch
+# Loading work.seg
+run -all
+# ** Note: $stop    : D:/QuartusCode/Lab1/simulation/modelsim/Lab1_sim.v(46)
+#    Time: 1370 ns  Iteration: 0  Instance: /Lab1_sim
+# Break in Module Lab1_sim at D:/QuartusCode/Lab1/simulation/modelsim/Lab1_sim.v line 46
+restart
+run
+# End time: 20:49:06 on Apr 01,2020, Elapsed time: 0:34:19
+# Errors: 1, Warnings: 0

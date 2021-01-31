@@ -1,0 +1,42 @@
+module  stopwatch	(
+	clk,
+	rst,
+	key0,
+	key1,
+	min,
+	sec,
+	ms
+);
+
+input	clk;
+input	rst;
+input	key0;
+input	key1;
+output min;
+output sec;
+output ms;
+
+reg	[18:0]counter;
+reg	min_flag;
+reg	sec_flag;
+reg	ms_flag;
+
+always@(posedge clk or negedge rst)
+begin
+	if(!rst)
+	begin
+	counter<=19'b0;
+	end
+	else 
+	begin
+		if(counter==19'd500000)
+		begin
+			
+	end
+	
+end
+
+always@(posedge clk or negedge rst)
+begin
+	if(!rst)
+		

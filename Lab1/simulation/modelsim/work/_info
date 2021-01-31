@@ -1,0 +1,159 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/QuartusCode/Lab1/simulation/modelsim
+vdebounce
+Z1 !s110 1585745211
+!i10b 1
+!s100 N]dMQz_<Tg2Y<95F:AP:V3
+IoKjdD:MU0;ZPXnJg4VB`]1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1585739051
+8D:/QuartusCode/Lab1/debounce.v
+FD:/QuartusCode/Lab1/debounce.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1585745211.000000
+!s107 D:/QuartusCode/Lab1/debounce.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/Lab1/debounce.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vedge_detect
+R1
+!i10b 1
+!s100 @MX:ikO7f;`NQEm[2I2>53
+IkiHcoQBhW0EXOhfh<dHbh0
+R2
+R0
+w1585378120
+8D:/QuartusCode/Lab1/edge_detect.v
+FD:/QuartusCode/Lab1/edge_detect.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/QuartusCode/Lab1/edge_detect.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/Lab1/edge_detect.v|
+!i113 1
+R5
+R6
+vLab1
+R1
+!i10b 1
+!s100 0Yii?P]^HAYjbR0[JQ^eL3
+I^Z8I>^d0Jj9NFAF;VUlMI1
+R2
+R0
+w1585739800
+8D:/QuartusCode/Lab1/Lab1.v
+FD:/QuartusCode/Lab1/Lab1.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/QuartusCode/Lab1/Lab1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/Lab1/Lab1.v|
+!i113 1
+R5
+R6
+n@lab1
+vLab1_sim
+!s110 1585745212
+!i10b 1
+!s100 02mc8DC_0Y5BViK=]eR463
+IbRE@9f07CBd>U=7d>4_?32
+R2
+R0
+w1585745207
+8D:/QuartusCode/Lab1/simulation/modelsim/Lab1_sim.v
+FD:/QuartusCode/Lab1/simulation/modelsim/Lab1_sim.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1585745212.000000
+!s107 D:/QuartusCode/Lab1/simulation/modelsim/Lab1_sim.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/Lab1/simulation/modelsim/Lab1_sim.v|
+!i113 1
+R5
+R6
+n@lab1_sim
+vseg
+R1
+!i10b 1
+!s100 9NOO?@TXc[1KKgmd2jYV02
+IlX7@[Qj2bAGzCgOe7X29o1
+R2
+R0
+w1585738893
+8D:/QuartusCode/Lab1/seg.v
+FD:/QuartusCode/Lab1/seg.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/QuartusCode/Lab1/seg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/Lab1/seg.v|
+!i113 1
+R5
+R6
+vstate
+R1
+!i10b 1
+!s100 [cEMjP9RaR;KL<C;DinJ50
+IEiQ2?67I8cI;MgWjlaMG;1
+R2
+R0
+w1585385217
+8D:/QuartusCode/Lab1/state.v
+FD:/QuartusCode/Lab1/state.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/QuartusCode/Lab1/state.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/Lab1/state.v|
+!i113 1
+R5
+R6
+vstopwatch
+R1
+!i10b 1
+!s100 <WoYJ5Q]o2F[BZBO`ISnk2
+IamI31jZN?TC_41hIeOQ:a2
+R2
+R0
+w1585740282
+8D:/QuartusCode/Lab1/stopwatch.v
+FD:/QuartusCode/Lab1/stopwatch.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/QuartusCode/Lab1/stopwatch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/QuartusCode/Lab1/stopwatch.v|
+!i113 1
+R5
+R6

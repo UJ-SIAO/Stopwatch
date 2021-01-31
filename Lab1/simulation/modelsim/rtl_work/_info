@@ -1,0 +1,143 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/QuartusCode/Lab1/simulation/modelsim
+vdebounce
+Z1 !s110 1585738997
+!i10b 1
+!s100 0LlIk4S>HPMo1SW^WM9c]1
+IAUEoazz@dAMhATZ[C21aK1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1585731181
+8D:/QuartusCode/Lab1/debounce.v
+FD:/QuartusCode/Lab1/debounce.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1585738997.000000
+!s107 D:/QuartusCode/Lab1/debounce.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/QuartusCode/Lab1|D:/QuartusCode/Lab1/debounce.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+D:/QuartusCode/Lab1
+Z7 tCvgOpt 0
+vedge_detect
+R1
+!i10b 1
+!s100 @MX:ikO7f;`NQEm[2I2>53
+InPd5GVoPSE54XSb`ob]6Z3
+R2
+R0
+w1585378120
+8D:/QuartusCode/Lab1/edge_detect.v
+FD:/QuartusCode/Lab1/edge_detect.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/QuartusCode/Lab1/edge_detect.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/QuartusCode/Lab1|D:/QuartusCode/Lab1/edge_detect.v|
+!i113 1
+R5
+R6
+R7
+vLab1
+!s110 1585738996
+!i10b 1
+!s100 M8XHE[2T9jl^@PBViaJ>I1
+Ik`:LX`2HTVN@Qc1A6A?W^0
+R2
+R0
+w1585395081
+8D:/QuartusCode/Lab1/Lab1.v
+FD:/QuartusCode/Lab1/Lab1.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1585738996.000000
+!s107 D:/QuartusCode/Lab1/Lab1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/QuartusCode/Lab1|D:/QuartusCode/Lab1/Lab1.v|
+!i113 1
+R5
+R6
+R7
+n@lab1
+vseg
+R1
+!i10b 1
+!s100 9NOO?@TXc[1KKgmd2jYV02
+I`LJ=V`3;Czoh[i?59o6[g2
+R2
+R0
+w1585738893
+8D:/QuartusCode/Lab1/seg.v
+FD:/QuartusCode/Lab1/seg.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/QuartusCode/Lab1/seg.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/QuartusCode/Lab1|D:/QuartusCode/Lab1/seg.v|
+!i113 1
+R5
+R6
+R7
+vstate
+R1
+!i10b 1
+!s100 [cEMjP9RaR;KL<C;DinJ50
+I4]c5S;^lm:5@6Yf7o;7_00
+R2
+R0
+w1585385217
+8D:/QuartusCode/Lab1/state.v
+FD:/QuartusCode/Lab1/state.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/QuartusCode/Lab1/state.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/QuartusCode/Lab1|D:/QuartusCode/Lab1/state.v|
+!i113 1
+R5
+R6
+R7
+vstopwatch
+R1
+!i10b 1
+!s100 0i4d>Le;H]kchmFNE2jbm0
+IzfEbGPReg]gKORa[5=>H[3
+R2
+R0
+w1585738667
+8D:/QuartusCode/Lab1/stopwatch.v
+FD:/QuartusCode/Lab1/stopwatch.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/QuartusCode/Lab1/stopwatch.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/QuartusCode/Lab1|D:/QuartusCode/Lab1/stopwatch.v|
+!i113 1
+R5
+R6
+R7
